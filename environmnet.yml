@@ -1,0 +1,8 @@
+name: nucmed_env
+channels:
+  - conda-forge
+dependencies:
+  - numpy
+  - pydicom
+  - pandas
+  - matplotlib
